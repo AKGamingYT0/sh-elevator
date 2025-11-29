@@ -1,6 +1,3 @@
-## Showcase
-![Screenshot](https://github.com/sheenthebest/sh-elevator/blob/main/html/images/20240617153457_1.jpg?raw=true)
-
 ## Features
 - UI for selecting elevator floors.
 - Current floor display with animation.

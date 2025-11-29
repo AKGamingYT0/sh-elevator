@@ -1,9 +1,10 @@
 return {
+    key = 38, -- E
+
     texts = {
-        open = '[~g~E~w~] - Elevator'
+        open = '[E] - Elevator'
     },
 
-    draw_dist = 3.0,
     interact_dist = 1.5,
 
     elevators = {
@@ -26,6 +27,7 @@ return {
                 code = '1234', -- restrict floor by password
                 pos = vector3(-1072.81, -246.69, 54.01),
             },
+            
         },
         ['Example'] = {
             {
