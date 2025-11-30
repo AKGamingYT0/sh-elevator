@@ -1,3 +1,6 @@
+## Showcase
+![Screenshot](https://forum-cfx-re.akamaized.net/original/5X/8/b/f/6/8bf6aa53cbb83935187ce93230e00a93c3a069a6.jpeg?raw=true)
+
 ## Features
 - UI for selecting elevator floors.
 - Current floor display with animation.
